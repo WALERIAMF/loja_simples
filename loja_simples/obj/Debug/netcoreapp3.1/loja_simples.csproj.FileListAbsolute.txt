@@ -1,0 +1,13 @@
+C:\Users\unifesp\Documents\.dotnet\loja_simples\loja_simples\bin\Debug\netcoreapp3.1\loja_simples.exe
+C:\Users\unifesp\Documents\.dotnet\loja_simples\loja_simples\bin\Debug\netcoreapp3.1\loja_simples.deps.json
+C:\Users\unifesp\Documents\.dotnet\loja_simples\loja_simples\bin\Debug\netcoreapp3.1\loja_simples.runtimeconfig.json
+C:\Users\unifesp\Documents\.dotnet\loja_simples\loja_simples\bin\Debug\netcoreapp3.1\loja_simples.runtimeconfig.dev.json
+C:\Users\unifesp\Documents\.dotnet\loja_simples\loja_simples\bin\Debug\netcoreapp3.1\loja_simples.dll
+C:\Users\unifesp\Documents\.dotnet\loja_simples\loja_simples\bin\Debug\netcoreapp3.1\loja_simples.pdb
+C:\Users\unifesp\Documents\.dotnet\loja_simples\loja_simples\obj\Debug\netcoreapp3.1\loja_simples.csprojAssemblyReference.cache
+C:\Users\unifesp\Documents\.dotnet\loja_simples\loja_simples\obj\Debug\netcoreapp3.1\loja_simples.AssemblyInfoInputs.cache
+C:\Users\unifesp\Documents\.dotnet\loja_simples\loja_simples\obj\Debug\netcoreapp3.1\loja_simples.AssemblyInfo.cs
+C:\Users\unifesp\Documents\.dotnet\loja_simples\loja_simples\obj\Debug\netcoreapp3.1\loja_simples.csproj.CoreCompileInputs.cache
+C:\Users\unifesp\Documents\.dotnet\loja_simples\loja_simples\obj\Debug\netcoreapp3.1\loja_simples.dll
+C:\Users\unifesp\Documents\.dotnet\loja_simples\loja_simples\obj\Debug\netcoreapp3.1\loja_simples.pdb
+C:\Users\unifesp\Documents\.dotnet\loja_simples\loja_simples\obj\Debug\netcoreapp3.1\loja_simples.genruntimeconfig.cache
